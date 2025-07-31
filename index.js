@@ -1,2 +1,3 @@
 let myName = "Kzeebaby";
-console.log(myName)
+console.log(` My name is ${myName}`)
+
