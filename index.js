@@ -1,3 +1,3 @@
 let myName = "Kzeebaby";
-console.log(` My name is ${myName}`)
+console.log(`My name is ${myName}`)
 
